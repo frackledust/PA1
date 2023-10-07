@@ -1,0 +1,4 @@
+/home/pav/Repos/PA/pa_cpp/cmake-build-debug/CMakeFiles/pa_cpp.dir
+/home/pav/Repos/PA/pa_cpp/cmake-build-debug/CMakeFiles/pa_2.dir
+/home/pav/Repos/PA/pa_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/pav/Repos/PA/pa_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
